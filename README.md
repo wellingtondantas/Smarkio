@@ -1,4 +1,9 @@
-# Instalação do Teste
+# Instalação do Teste Prático para DS_ML
+
+Autor: Wellington Dantas
+
+Site: wellingtondantas.com.br
+
 
 
 ## Clone
